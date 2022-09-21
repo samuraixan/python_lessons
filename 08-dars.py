@@ -5,11 +5,11 @@ Created on Tue Sep 20 11:05:58 2022
 @author: Kamolxon
 """
 
-# cars=['bmw','mersedes benz','volvo','general motors','tesla','audi']
-# cars.sort()
-# print(cars)
-# cars.sort(reverse=True)
-# print(cars)
+cars=['bmw','mersedes benz','volvo','general motors','tesla','audi']
+cars.sort()
+print(cars)
+cars.sort(reverse=True)
+print(cars)
 
 # mehmonlar=['Odil','Hamid','Temur','Avazbek','Farruh','Shamsiddin']
 # print(sorted(mehmonlar))
